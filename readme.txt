@@ -1,4 +1,4 @@
-Proyecto del Hackatón J.P. Morgan - 10/11/2018
+Proyecto del #Fintech_Hackaton J.P. Morgan - 10/11/2018
 
 Miembros del Equipo
 -Mazzola Sofia
